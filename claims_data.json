@@ -1,0 +1,153 @@
+{
+  "subject": {
+    "name": "Jayesh Patel",
+    "role": "Chief Executive Officer, Wio Bank",
+    "linkedin_url": "https://ae.linkedin.com/in/jayesh-patel-984b5117",
+    "location": "Abu Dhabi, UAE"
+  },
+  "source_registry": {
+    "S1": {
+      "name": "ADQ official newsroom (adq.ae)",
+      "url": "https://www.adq.ae/newsroom/adq-alpha-dhabi-etisalat-and-fab-to-launch-wio-a-next-generation-banking-platform",
+      "tier": "primary",
+      "note": "Shareholder-issued press release, published on the owning company's own domain."
+    },
+    "S2": {
+      "name": "The National (Abu Dhabi Media Office syndication)",
+      "url": "https://www.thenationalnews.com/business/banking/2022/02/11/adq-alpha-dhabi-etisalat-and-fab-join-hands-to-launch-626m-digital-banking-platform-wio/",
+      "tier": "press-independent",
+      "note": "Independent business desk report, cites the same ADQ statement but written independently."
+    },
+    "S3": {
+      "name": "Gulf Business",
+      "url": "https://gulfbusiness.com/uaes-adq-alpha-dhabi-etisalat-and-fab-to-launch-next-gen-banking-platform/",
+      "tier": "press-independent",
+      "note": "Independent trade press report on the same announcement."
+    },
+    "S4": {
+      "name": "Gulf News",
+      "url": "https://gulfnews.com/business/banking/uaes-brand-new-digital-bank-wio-confirms-salem-al-nuaimi-as-chairman-jayesh-patel-as-ceo-1.1652161926181",
+      "tier": "press-independent",
+      "note": "Independent report specifically on the CEO/Chairman appointment, tied to CBUAE license approval."
+    },
+    "S5": {
+      "name": "Entrepreneur Middle East - 'The 100 NRIs 2026' profile",
+      "url": "https://mena.entrepreneur.com/entrepreneurs/the-100-nris-2026-jayesh-patel-chief-executive-officer-wio-bank",
+      "tier": "press-profile",
+      "note": "Bio-style feature; likely draws on subject-supplied biography rather than independent verification."
+    },
+    "S6": {
+      "name": "Entrepreneur Middle East - 'Empowering Enterprises' interview",
+      "url": "https://mena.entrepreneur.com/technology/empowering-enterprises-jayesh-patel-ceo-wio-bank/482951",
+      "tier": "press-interview",
+      "note": "Direct-quote interview; financial figures attributed to Patel's own statement, not to an audited filing."
+    },
+    "S7": {
+      "name": "Crunchbase person profile",
+      "url": "https://www.crunchbase.com/person/jayesh-patel-1c85",
+      "tier": "aggregator",
+      "note": "Crowdsourced/aggregated profile data, commonly sourced from LinkedIn or press bios rather than verified independently."
+    },
+    "S8": {
+      "name": "The Org - Wio Bank org chart",
+      "url": "https://theorg.com/org/wio-bank/org-chart/jayesh-patel",
+      "tier": "aggregator",
+      "note": "Crowdsourced org-chart aggregator."
+    },
+    "S9": {
+      "name": "TheOfficialBoard biography",
+      "url": "https://www.theofficialboard.com/biography/jayesh-patel-642g6",
+      "tier": "aggregator",
+      "note": "Crowdsourced corporate-bio aggregator; frequently scrapes other aggregators."
+    },
+    "S10": {
+      "name": "Investopia Agenda speaker bio",
+      "url": "https://investopia.ae/speakers/jayesh-patel/",
+      "tier": "press-profile",
+      "note": "Event speaker bio, likely subject-supplied text, published by an independent event organizer."
+    },
+    "S11": {
+      "name": "LinkedIn public profile snippet",
+      "url": "https://ae.linkedin.com/in/jayesh-patel-984b5117",
+      "tier": "self-reported",
+      "note": "Subject's own profile. Self-reported, not independently verified by definition."
+    }
+  },
+  "claims": [
+    {
+      "id": "C1",
+      "text": "Jayesh Patel is the current CEO of Wio Bank.",
+      "supporting": ["S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10", "S11"],
+      "contradicting": []
+    },
+    {
+      "id": "C2",
+      "text": "Jayesh Patel was confirmed as CEO of Wio Bank around February 2022, following the Central Bank of the UAE's in-principle license approval to Wio.",
+      "supporting": ["S4", "S1"],
+      "contradicting": []
+    },
+    {
+      "id": "C3",
+      "text": "Jayesh Patel has been CEO of Wio Bank 'since December 2020.'",
+      "supporting": ["S5"],
+      "contradicting": ["S4", "S1"]
+    },
+    {
+      "id": "C4",
+      "text": "Wio Bank is owned by four shareholders: ADQ and Alpha Dhabi (combined 65%), Etisalat/e& (25%), and First Abu Dhabi Bank (10%).",
+      "supporting": ["S1", "S2", "S3"],
+      "contradicting": []
+    },
+    {
+      "id": "C5",
+      "text": "Wio Bank is owned solely by 'the investment and holding company Abu Dhabi Holding.'",
+      "supporting": ["S6"],
+      "contradicting": ["S1", "S2", "S3"]
+    },
+    {
+      "id": "C6",
+      "text": "Wio Bank's total invested capital at launch was AED 2.3 billion.",
+      "supporting": ["S1", "S2", "S3"],
+      "contradicting": []
+    },
+    {
+      "id": "C7",
+      "text": "Before Wio, Jayesh Patel was Head of Liv. Digital Bank at Emirates NBD.",
+      "supporting": ["S5", "S7", "S9", "S10"],
+      "contradicting": [],
+      "corroboration_caveat": "All four sources plausibly trace back to the same subject-supplied career bio rather than independent reporting."
+    },
+    {
+      "id": "C8",
+      "text": "Before Emirates NBD, Jayesh Patel was Assistant Director, Strategic Planning and Performance Management at Qatar Telecom.",
+      "supporting": ["S5", "S9"],
+      "contradicting": [],
+      "corroboration_caveat": "Both sources plausibly trace back to the same subject-supplied career bio."
+    },
+    {
+      "id": "C9",
+      "text": "Jayesh Patel holds an MBA from the Tuck School of Business at Dartmouth.",
+      "supporting": ["S5", "S7", "S9"],
+      "contradicting": []
+    },
+    {
+      "id": "C10",
+      "text": "Jayesh Patel holds a Master of Science in Mechanical Engineering from the University of Illinois Urbana-Champaign (2001).",
+      "supporting": ["S9"],
+      "contradicting": []
+    },
+    {
+      "id": "C11",
+      "text": "Jayesh Patel holds a degree in Civil Engineering from Southern Illinois University Edwardsville.",
+      "supporting": ["S8"],
+      "contradicting": []
+    },
+    {
+      "id": "C12",
+      "text": "In FY2023, Wio Bank reported revenue of AED 266.4 million and net profit of AED 2 million, becoming profitable in its first full year.",
+      "supporting": ["S6"],
+      "contradicting": [],
+      "corroboration_caveat": "Figures are attributed to a direct quote from Patel in a single media interview, not to a published audited financial statement or CBUAE filing."
+    }
+  ]
+}

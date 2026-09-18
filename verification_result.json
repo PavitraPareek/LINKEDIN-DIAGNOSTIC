@@ -1,0 +1,187 @@
+{
+  "subject": {
+    "name": "Jayesh Patel",
+    "role": "Chief Executive Officer, Wio Bank",
+    "linkedin_url": "https://ae.linkedin.com/in/jayesh-patel-984b5117",
+    "location": "Abu Dhabi, UAE"
+  },
+  "results": [
+    {
+      "id": "C1",
+      "text": "Jayesh Patel is the current CEO of Wio Bank.",
+      "status": "VERIFIED",
+      "reason": "Corroborated by 4 independent, higher-trust sources with no higher-trust contradiction.",
+      "supporting_sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "S10",
+        "S11"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C2",
+      "text": "Jayesh Patel was confirmed as CEO of Wio Bank around February 2022, following the Central Bank of the UAE's in-principle license approval to Wio.",
+      "status": "VERIFIED",
+      "reason": "Corroborated by 2 independent, higher-trust sources with no higher-trust contradiction.",
+      "supporting_sources": [
+        "S4",
+        "S1"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C3",
+      "text": "Jayesh Patel has been CEO of Wio Bank 'since December 2020.'",
+      "status": "UNVERIFIED",
+      "reason": "Contradicted by higher-trust source(s) ['S4', 'S1']. Claim's own support (['S5']) does not clear the two-independent-source bar needed to override that contradiction. Refused rather than passed through with a caveat, because the contradiction is about a specific fact (a date / an ownership structure), not a matter of opinion.",
+      "supporting_sources": [
+        "S5"
+      ],
+      "contradicting_sources": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "id": "C4",
+      "text": "Wio Bank is owned by four shareholders: ADQ and Alpha Dhabi (combined 65%), Etisalat/e& (25%), and First Abu Dhabi Bank (10%).",
+      "status": "VERIFIED",
+      "reason": "Corroborated by 3 independent, higher-trust sources with no higher-trust contradiction.",
+      "supporting_sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C5",
+      "text": "Wio Bank is owned solely by 'the investment and holding company Abu Dhabi Holding.'",
+      "status": "UNVERIFIED",
+      "reason": "Contradicted by higher-trust source(s) ['S1', 'S2', 'S3']. Claim's own support (['S6']) does not clear the two-independent-source bar needed to override that contradiction. Refused rather than passed through with a caveat, because the contradiction is about a specific fact (a date / an ownership structure), not a matter of opinion.",
+      "supporting_sources": [
+        "S6"
+      ],
+      "contradicting_sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C6",
+      "text": "Wio Bank's total invested capital at launch was AED 2.3 billion.",
+      "status": "VERIFIED",
+      "reason": "Corroborated by 3 independent, higher-trust sources with no higher-trust contradiction.",
+      "supporting_sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C7",
+      "text": "Before Wio, Jayesh Patel was Head of Liv. Digital Bank at Emirates NBD.",
+      "status": "PARTIALLY_VERIFIED",
+      "reason": "Multiple sources agree, but they plausibly share a common origin (a subject-supplied bio) rather than being independently reported: All four sources plausibly trace back to the same subject-supplied career bio rather than independent reporting.",
+      "supporting_sources": [
+        "S5",
+        "S7",
+        "S9",
+        "S10"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C8",
+      "text": "Before Emirates NBD, Jayesh Patel was Assistant Director, Strategic Planning and Performance Management at Qatar Telecom.",
+      "status": "PARTIALLY_VERIFIED",
+      "reason": "Multiple sources agree, but they plausibly share a common origin (a subject-supplied bio) rather than being independently reported: Both sources plausibly trace back to the same subject-supplied career bio.",
+      "supporting_sources": [
+        "S5",
+        "S9"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C9",
+      "text": "Jayesh Patel holds an MBA from the Tuck School of Business at Dartmouth.",
+      "status": "PARTIALLY_VERIFIED",
+      "reason": "Only weak-tier sources (aggregator / self-reported / profile) support this claim; no independent confirmation found.",
+      "supporting_sources": [
+        "S5",
+        "S7",
+        "S9"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C10",
+      "text": "Jayesh Patel holds a Master of Science in Mechanical Engineering from the University of Illinois Urbana-Champaign (2001).",
+      "status": "PARTIALLY_VERIFIED",
+      "reason": "Only weak-tier sources (aggregator / self-reported / profile) support this claim; no independent confirmation found.",
+      "supporting_sources": [
+        "S9"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C11",
+      "text": "Jayesh Patel holds a degree in Civil Engineering from Southern Illinois University Edwardsville.",
+      "status": "PARTIALLY_VERIFIED",
+      "reason": "Only weak-tier sources (aggregator / self-reported / profile) support this claim; no independent confirmation found.",
+      "supporting_sources": [
+        "S8"
+      ],
+      "contradicting_sources": []
+    },
+    {
+      "id": "C12",
+      "text": "In FY2023, Wio Bank reported revenue of AED 266.4 million and net profit of AED 2 million, becoming profitable in its first full year.",
+      "status": "PARTIALLY_VERIFIED",
+      "reason": "Multiple sources agree, but they plausibly share a common origin (a subject-supplied bio) rather than being independently reported: Figures are attributed to a direct quote from Patel in a single media interview, not to a published audited financial statement or CBUAE filing.",
+      "supporting_sources": [
+        "S6"
+      ],
+      "contradicting_sources": []
+    }
+  ],
+  "refused_claims": [
+    {
+      "id": "C3",
+      "text": "Jayesh Patel has been CEO of Wio Bank 'since December 2020.'",
+      "status": "UNVERIFIED",
+      "reason": "Contradicted by higher-trust source(s) ['S4', 'S1']. Claim's own support (['S5']) does not clear the two-independent-source bar needed to override that contradiction. Refused rather than passed through with a caveat, because the contradiction is about a specific fact (a date / an ownership structure), not a matter of opinion.",
+      "supporting_sources": [
+        "S5"
+      ],
+      "contradicting_sources": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "id": "C5",
+      "text": "Wio Bank is owned solely by 'the investment and holding company Abu Dhabi Holding.'",
+      "status": "UNVERIFIED",
+      "reason": "Contradicted by higher-trust source(s) ['S1', 'S2', 'S3']. Claim's own support (['S6']) does not clear the two-independent-source bar needed to override that contradiction. Refused rather than passed through with a caveat, because the contradiction is about a specific fact (a date / an ownership structure), not a matter of opinion.",
+      "supporting_sources": [
+        "S6"
+      ],
+      "contradicting_sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    }
+  ]
+}
